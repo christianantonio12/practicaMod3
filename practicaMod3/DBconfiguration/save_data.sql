@@ -16,14 +16,10 @@ VALUES
 ('Jorge Rojas', 'jorge.rojas13@example.com', '1234567802', '1981-03-25'),
 ('Valeria Peña', 'valeria.pena14@example.com', '1234567803', '1992-01-09'),
 ('Andrés Romero', 'andres.romero15@example.com', '1234567804', '1989-10-12'),
-('Camila Paredes', 'camila.paredes16@example.com', '1234567805', '1997-11-
-19'),
-('Ricardo Vargas', 'ricardo.vargas17@example.com', '1234567806', '1984-07-
-23'),
-('Daniela Flores', 'daniela.flores18@example.com', '1234567807', '1996-03-
-01'),
-('Héctor Serrano', 'hector.serrano19@example.com', '1234567808', '1982-02-
-11'),
+('Camila Paredes', 'camila.paredes16@example.com', '1234567805', '1997-11-19'),
+('Ricardo Vargas', 'ricardo.vargas17@example.com', '1234567806', '1984-07-23'),
+('Daniela Flores', 'daniela.flores18@example.com', '1234567807', '1996-03-01'),
+('Héctor Serrano', 'hector.serrano19@example.com', '1234567808', '1982-02-11'),
 ('Patricia Vega', 'patricia.vega20@example.com', '1234567809', '1990-09-05');
 -- Insertar datos en la tabla credenciales
 INSERT INTO credenciales (id_usuario, username, password_hash)
